@@ -5,8 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgusals6804&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 중앙대학교 경영학과 & 소프트웨어 인문 융합전공 재학중 <br/>
-http://apl.hongik.ac.kr<br/>	
-현) 하나증권 재직 중<br/>        
+       
    
 # Awards
 | 주관사 | 대회명 | 순위 | 

@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 프로젝트 및 공부했던 것들을 하나씩 정리중입니다.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals6804&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![xylitolboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylitolboy&show_icons=true)](https://github.com/xylitolboy/github-readme-stats)<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgusals6804&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 중앙대학교 경영학과 & 소프트웨어 인문 융합전공 재학중 <br/>

@@ -2,8 +2,10 @@
 프로젝트 및 공부했던 것들을 하나씩 정리중입니다.  
 
 [![xylitolboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylitolboy&show_icons=true)](https://github.com/xylitolboy/github-readme-stats)<br/>
+
 https://leetcard.jacoblin.cool/xylitolboy?theme=unicorn&extension=activity
-중앙대학교 경영학과 & 소프트웨어 인문 융합전공 재학중 <br/>
+
+중앙대학교 경영학과 & 소프트웨어 인문 융합전공 재학중
        
    
 # Awards

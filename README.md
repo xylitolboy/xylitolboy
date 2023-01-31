@@ -3,8 +3,6 @@
 
 [![xylitolboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylitolboy&show_icons=true)](https://github.com/xylitolboy/github-readme-stats)<br/>
 
-https://leetcard.jacoblin.cool/xylitolboy?theme=unicorn&extension=activity
-
 중앙대학교 경영학과 & 소프트웨어 인문 융합전공 재학중
        
    
